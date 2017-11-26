@@ -1,0 +1,56 @@
+~~~~~~~~~~~~~~~~~~~~
+01/10/17 23:44:29
+Your score is 1
+West's score is 1
+North's score is 21
+East's score is 3
+
+~~~~~~~~~~~~~~~~~~~~
+01/10/17 23:45:00
+Your score is 25
+West's score is 0
+North's score is 1
+East's score is 0
+
+~~~~~~~~~~~~~~~~~~~~
+01/10/17 23:45:36
+Your score is 6
+West's score is 0
+North's score is 19
+East's score is 1
+
+~~~~~~~~~~~~~~~~~~~~
+01/10/17 23:46:02
+Your score is 17
+West's score is 0
+North's score is 5
+East's score is 4
+
+~~~~~~~~~~~~~~~~~~~~
+01/10/17 23:46:28
+Your score is 4
+West's score is 3
+North's score is 17
+East's score is 2
+
+~~~~~~~~~~~~~~~~~~~~
+01/10/17 23:47:38
+Your score is 13
+West's score is 0
+North's score is 0
+East's score is 13
+
+~~~~~~~~~~~~~~~~~~~~
+01/10/17 23:48:30
+Your score is 0
+West's score is 6
+North's score is 3
+East's score is 17
+
+~~~~~~~~~~~~~~~~~~~~
+04/10/17 13:13:04
+Your score is 0
+West's score is 2
+North's score is 24
+East's score is 0
+
